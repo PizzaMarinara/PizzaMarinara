@@ -6,6 +6,7 @@ Android Software Engineer from 🇮🇹
 - 🌱 Learning Jetpack Compose and keeping myself up to date with the latest trends in the Android ecosystem.
 - 📫 Reach me through Twitter or Email!
 - 🌴 I love all things Retrowave! The aesthetic, music, you name it.
+- 🌐 My (very minimal) website: https://fantinienri.co
 
 <!--
 **PizzaMarinara/PizzaMarinara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
