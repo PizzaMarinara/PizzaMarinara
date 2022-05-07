@@ -1,12 +1,12 @@
 ### Hi there, I'm Enrico! 👋
 
-Android Software Engineer from 🇮🇹
+Android Dev / IT Engineer from 🇮🇹
 
-- 🔭 Currently working on a small application to solve pairing problems in set of elements.
 - 🌱 Learning Jetpack Compose and keeping myself up to date with the latest trends in the Android ecosystem.
-- 📫 Reach me through Twitter or Email!
-- 🌴 I love all things Retrowave! The aesthetic, music, you name it.
-- 🌐 My (very minimal) website: https://fantinienri.co
+- 📫 Reach me through [Twitter](https://twitter.com/Pizza_Marinara)!
+- 🌴 I love all things Retrowave! The aesthetic, the music, the vibes.
+- 🌐 My (very minimal) [website](https://fantinienri.co)
+- 🍕 Favorite type of pizza: Marinara
 
 <!--
 **PizzaMarinara/PizzaMarinara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🍕 Favorite Pizza:
 -->
