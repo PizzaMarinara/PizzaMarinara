@@ -51,7 +51,7 @@ Hey, I'm **Enrico** — a **Senior Android Engineer** based in Cesena, North-Eas
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F52FF,50:ff4d74,100:00d9ff&height=3&section=header&text=" width="100%" alt="" />
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9nNbroaM/giphy.gif" width="28"> Featured Work
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Featured Work
 
 | | |
 |---|---|
