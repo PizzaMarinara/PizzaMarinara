@@ -2,7 +2,7 @@
 
 # Hey, I'm Enrico 👋
 
-<a href="https://fantinienri.co"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=FF4D74&center=true&vCenter=true&width=420&height=40&lines=IT+Engineer;Perpetual+learner;Retrowave+soul" alt="IT Engineer · Perpetual learner · Retrowave soul" /></a>
+$\textsf{\textcolor{#ff4d74}{IT Engineer}}$
 
 [![Website](https://img.shields.io/badge/fantinienri.co-ff4d74?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantinienri.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-fantini/)
@@ -13,7 +13,7 @@
 IT Engineer from Italy 🇮🇹 — spent most of my career on Android, and I keep this space to branch out and build whatever I feel like learning next.
 
 - 🤖 Daily AI-augmented dev with multi-agent coding harnesses (Claude Code, Codex, Pi)
-- 🌴 Retrowave soul — the aesthetic, the music, the vibes
+- 🌴 Big on the retrowave aesthetic, music and vibes
 - 🃏 Magic: The Gathering Pauper — I run [LPFC](https://lpfc.it)
 - 🍕 The one true pizza is Marinara
 
