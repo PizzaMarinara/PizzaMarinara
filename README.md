@@ -2,7 +2,7 @@
 
 # Hey, I'm Enrico 👋
 
-<img src="https://api.iconify.design/mdi/laptop.svg?color=%23ff4d74&height=22" height="20" alt="" />&nbsp; $\textsf{\textcolor{#ff4d74}{IT Engineer - Android Dev}}$ &nbsp;<img src="https://api.iconify.design/mdi/android.svg?color=%23ff4d74&height=22" height="20" alt="" />
+<img src="https://api.iconify.design/mdi/laptop.svg?color=%23ff4d74&height=22" height="16" alt="" />&nbsp; $\textsf{\textcolor{#ff4d74}{IT Engineer - Android Dev}}$ &nbsp;<img src="https://api.iconify.design/mdi/android.svg?color=%23ff4d74&height=22" height="16" alt="" />
 
 [![Website](https://img.shields.io/badge/fantinienri.co-ff4d74?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantinienri.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-fantini/)
