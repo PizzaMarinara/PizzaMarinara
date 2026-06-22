@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Enrico 👋
+# Hey, I'm ${\huge\textsf{\textcolor{#ff4d74}{Enrico}}}$ 👋
 
 $\textsf{\textcolor{#ff4d74}{IT Engineer - Android Dev}}$
 
