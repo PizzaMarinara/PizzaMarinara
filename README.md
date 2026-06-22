@@ -2,7 +2,7 @@
 
 # Hey, I'm Enrico 👋
 
-**💻 IT Engineer - Android Dev 🤖**
+**💻 IT Engineer - Android Dev 📱**
 
 [![Website](https://img.shields.io/badge/fantinienri.co-ff4d74?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantinienri.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-fantini/)
