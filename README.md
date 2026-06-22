@@ -2,7 +2,7 @@
 
 # Hey, I'm Enrico 👋
 
-$\textsf{\textcolor{#ff4d74}{IT Engineer}}$
+$\textsf{\textcolor{#ff4d74}{IT Engineer - Android Dev}}$
 
 [![Website](https://img.shields.io/badge/fantinienri.co-ff4d74?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantinienri.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-fantini/)
@@ -10,11 +10,11 @@ $\textsf{\textcolor{#ff4d74}{IT Engineer}}$
 
 </div>
 
-IT Engineer from Italy 🇮🇹 — spent most of my career on Android, and I keep this space to branch out and build whatever I feel like learning next.
+IT Engineer from Italy 🇮🇹. I spent most of my career on Android, and I keep this space to branch out and build whatever I feel like learning next.
 
 - 🤖 Daily AI-augmented dev with multi-agent coding harnesses (Claude Code, Codex, Pi)
 - 🌴 Big on the retrowave aesthetic, music and vibes
-- 🃏 Magic: The Gathering Pauper — I run [LPFC](https://lpfc.it)
+- 🃏 I play Magic as a hobby and I run the website for my local Pauper community: [LPFC](https://lpfc.it)
 - 🍕 The one true pizza is Marinara
 
 ## 🧰 Tech
@@ -37,7 +37,8 @@ IT Engineer from Italy 🇮🇹 — spent most of my career on Android, and I ke
 
 ## 🚀 Projects
 
-- **[pi](https://github.com/earendil-works/pi)** — contributor to an open-source AI agent toolkit (unified LLM API, agent loop, coding-agent CLI)
-- **[better-handoff](https://github.com/PizzaMarinara/better-handoff)** — portable session-handoff skill that gives AI coding agents a durable shared memory of a project
-- **[Pera Wallet](https://github.com/perawallet/pera-wallet/tree/master/android)** — core engineer on the official open-source Algorand wallet (1M+ installs)
-- **[LPFC](https://lpfc.it)** — site + JSON API for a Magic: The Gathering Pauper community, on Astro + a single Cloudflare Worker
+- **[pi](https://github.com/earendil-works/pi)**: contributor to an open-source AI agent toolkit (unified LLM API, agent loop, coding-agent CLI)
+- **[better-handoff](https://github.com/PizzaMarinara/better-handoff)**: portable session-handoff skill that gives AI coding agents a durable shared memory of a project
+- **[Pera Wallet](https://github.com/perawallet/pera-wallet/tree/master/android)**: core engineer on the official open-source Algorand wallet (1M+ installs)
+- **[LPFC](https://lpfc.it)**: site + JSON API for a Magic: The Gathering Pauper community, on Astro + a single Cloudflare Worker
+- **[MaximumWeightedMatching](https://github.com/PizzaMarinara/MaximumWeightedMatching)**: Kotlin implementation of the Swiss pairing system via maximum weighted matching in a graph
